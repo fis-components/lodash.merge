@@ -1,0 +1,20 @@
+{
+    "name": "lodash.merge",
+    "description": "The modern build of lodash’s `_.merge` as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash._arraycopy": "^3.0.0",
+        "lodash._arrayeach": "^3.0.0",
+        "lodash._createassigner": "^3.0.0",
+        "lodash.isarguments": "^3.0.0",
+        "lodash.isarray": "^3.0.0",
+        "lodash.isplainobject": "^3.0.0",
+        "lodash.istypedarray": "^3.0.0",
+        "lodash.keys": "^3.0.0",
+        "lodash.toplainobject": "^3.0.0"
+    },
+    "main": "index.js",
+    "version": "3.3.1"
+}
